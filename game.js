@@ -1,4 +1,4 @@
-// Rock-Paper-Scissors 💖
+// Rock-Paper-Scissors 
 let player = 0; // 0 = Rock, 1 = Paper, 2 = Scissors
 let c = Math.floor(Math.random() * 3);
 
